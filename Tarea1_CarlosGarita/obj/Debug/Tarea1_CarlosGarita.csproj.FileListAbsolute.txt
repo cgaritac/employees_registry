@@ -1,0 +1,18 @@
+C:\Users\cgari\Desktop\Tarea1_CarlosGarita\Tarea1_CarlosGarita\bin\Debug\Tarea1_CarlosGarita.exe
+C:\Users\cgari\Desktop\Tarea1_CarlosGarita\Tarea1_CarlosGarita\bin\Debug\Tarea1_CarlosGarita.pdb
+C:\Users\cgari\Desktop\Tarea1_CarlosGarita\Tarea1_CarlosGarita\obj\Debug\Tarea1_CarlosGarita.csprojAssemblyReference.cache
+C:\Users\cgari\Desktop\Tarea1_CarlosGarita\Tarea1_CarlosGarita\obj\Debug\Tarea1_CarlosGarita.csproj.CoreCompileInputs.cache
+C:\Users\cgari\Desktop\Tarea1_CarlosGarita\Tarea1_CarlosGarita\obj\Debug\Tarea1_CarlosGarita.exe
+C:\Users\cgari\Desktop\Tarea1_CarlosGarita\Tarea1_CarlosGarita\obj\Debug\Tarea1_CarlosGarita.pdb
+C:\Users\cgari\Desktop\Progra Avanzada\Tarea1_CarlosGarita\Tarea1_CarlosGarita\bin\Debug\Tarea1_CarlosGarita.exe
+C:\Users\cgari\Desktop\Progra Avanzada\Tarea1_CarlosGarita\Tarea1_CarlosGarita\bin\Debug\Tarea1_CarlosGarita.pdb
+C:\Users\cgari\Desktop\Progra Avanzada\Tarea1_CarlosGarita\Tarea1_CarlosGarita\obj\Debug\Tarea1_CarlosGarita.csprojAssemblyReference.cache
+C:\Users\cgari\Desktop\Progra Avanzada\Tarea1_CarlosGarita\Tarea1_CarlosGarita\obj\Debug\Tarea1_CarlosGarita.csproj.CoreCompileInputs.cache
+C:\Users\cgari\Desktop\Progra Avanzada\Tarea1_CarlosGarita\Tarea1_CarlosGarita\obj\Debug\Tarea1_CarlosGarita.exe
+C:\Users\cgari\Desktop\Progra Avanzada\Tarea1_CarlosGarita\Tarea1_CarlosGarita\obj\Debug\Tarea1_CarlosGarita.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Tarea1_CarlosGarita\Tarea1_CarlosGarita\bin\Debug\Tarea1_CarlosGarita.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Tarea1_CarlosGarita\Tarea1_CarlosGarita\bin\Debug\Tarea1_CarlosGarita.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Tarea1_CarlosGarita\Tarea1_CarlosGarita\obj\Debug\Tarea1_CarlosGarita.csproj.AssemblyReference.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Tarea1_CarlosGarita\Tarea1_CarlosGarita\obj\Debug\Tarea1_CarlosGarita.csproj.CoreCompileInputs.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Tarea1_CarlosGarita\Tarea1_CarlosGarita\obj\Debug\Tarea1_CarlosGarita.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Ingeniería Informática\Diplomado\Programación Avanzada\Tarea1_CarlosGarita\Tarea1_CarlosGarita\obj\Debug\Tarea1_CarlosGarita.pdb
